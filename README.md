@@ -1,5 +1,3 @@
-# Current-Date-and-Time-Project
-
 # Date and Time Display Project
 
 This project is a simple web page that displays the current date and time using JavaScript and Bootstrap. The time updates every second, and the page is styled with Bootstrap components.
